@@ -1,5 +1,5 @@
-# My first Github project
+# github project 1
 
-#I'm learning git and Github and this repo will help me. Don't judge.
+# I'm learning git and Github and this repo will help me.
 
-#this is the line that i've added. 
+# this is the line that i've added. 
